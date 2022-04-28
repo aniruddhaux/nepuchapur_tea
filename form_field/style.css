@@ -1,0 +1,26 @@
+
+#sizer      { width: 340px; margin: 0 auto; padding: 144px 200px 240px; background: url(highlight.png) no-repeat 50% 0; }
+fieldset    { 
+	 border: 0 none;
+    display: inline-block;
+    float: left;
+    padding-bottom: 9px;
+    text-align: left;
+    vertical-align: top;
+	 }
+.radios     { padding-top: 0px; background: url(divider.png) repeat-x 0 0; }
+.label_check input,
+.label_radio input  { margin-right: 5px; }
+
+.has-js .label_check,
+.has-js .label_radio    {  margin-right: 19px;
+    padding-bottom: 2px;
+    padding-left: 29px;
+	cursor:pointer;
+	 }
+.has-js .label_radio    { background: url(radio-off.png) no-repeat; }
+.has-js .label_check    { background: url(check-off.png) no-repeat; }
+.has-js label.c_on      { background: url(check-on.png) no-repeat; }
+.has-js label.r_on      { background: url(radio-on.png) no-repeat; }
+.has-js .label_check input,
+.has-js .label_radio input  { position: absolute; left: -9999px; }

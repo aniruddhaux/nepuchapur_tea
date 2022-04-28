@@ -1,0 +1,920 @@
+/*
+::-moz-selection {
+	background:rgba(0,0,0,0);
+	}
+::selection { 
+	background:rgba(0,0,0,0);
+	} 	
+*/
+	
+body{ 
+  	margin:0; 
+ 	padding:0; 
+ 	font-family:Lato;
+	color:#454545;
+	font-family: Lato;
+	}
+*{margin:0; padding:0;}
+img,a{ border:none; outline:none;}
+img{ vertical-align:bottom;}
+a{ text-decoration:none;}
+ul,li{ list-style:none;}
+input, textarea, select{
+	outline:none;
+	}
+h1{ font-size:52px;}
+h2{ font-size:34px;}
+
+p{ 
+	color: #868686;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    padding: 0 0 8px;
+    text-shadow: 0 0 0 #868686;
+	}
+
+.alignleft{
+	float:left;
+	margin:0 10px 15px 0;
+	}
+.alignright{
+	float:right;
+	margin:0 0px 15px 10px;
+	}
+.aligncenter{
+	display:block;
+	margin:15px auto;
+	}
+
+.clear:after{
+	display:block;
+	clear:both;
+	content:'';
+	}
+.spacer10{ height:10px;}
+.spacer15{ height:15px;}
+.spacer20{ height:20px;}
+.spacer25{ height:25px;}
+.spacer30{ height:30px;}     
+.spacer40{ height:40px;}
+
+.boxSizing{
+	box-sizing:border-box;
+	}
+
+.wrapper{ 
+	width:1190px;
+	margin:0px auto;
+	position:relative;
+	box-sizing:border-box;
+	}
+.wrapper:after{
+	clear:both;
+	display: block; 
+	content:'';
+	}
+/***************************
+	Header css start
+*****************************/
+header{
+	background:#fff;
+	}
+.top_hdBox{
+	background: #fcc143 none repeat scroll 0 0;
+    border-radius: 0 0 33px 33px;
+    padding: 17px 0 0;
+	z-index:9999;
+	position:relative;
+	}
+.head_box .wrapper:before{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_top_left_img.jpg") no-repeat scroll 0 0;
+    bottom: -2px;
+    content: "";
+    height: 83px;
+    left: -81px;
+    position: absolute;
+    width: 141px;
+    z-index: 1;
+	}
+.head_box .wrapper:after{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_top_right_img.jpg") no-repeat scroll 0 0;
+    bottom: -3px;
+    content: "";
+    height: 55px;
+    position: absolute;
+    right: -83px;
+    width: 158px;
+    z-index: 1;
+	}	
+.logo{
+	 padding-bottom: 18px;
+    text-align: center;
+	 }
+.float_top_rightBox{
+	position: absolute;
+    right: 55px;
+    top: 15px;
+    z-index: 9;
+    width: 200px;
+	}
+.hd_social{
+	float: right;
+    padding: 0 0 13px 0;
+	}
+.hd_social li{
+	display: inline-block;
+    float: left;
+    margin: 0 0 0 8px;
+    vertical-align: top;
+	}
+.hd_social li a{
+	float:left;
+	display:block;
+	width:21px;
+	height:19px;
+	}
+.facebook{
+	background: url(../images/nepuchapur_tea_facebook.png) no-repeat center;
+	}
+.googlePlus{
+	background: url(../images/nepuchapur_tea_google.png) no-repeat center;
+	}
+.twitter{
+	background: url(../images/nepuchapur_tea_twitter.png) no-repeat center;
+	}
+.facebook:hover{
+	background: url(../images/nepuchapur_tea_facebookH.png) no-repeat center;
+	}
+.googlePlus:hover{
+	background: url(../images/nepuchapur_tea_googleH.png) no-repeat center;
+	}
+.twitter:hover{
+	background: url(../images/nepuchapur_tea_twitterH.png) no-repeat center;
+	}
+	
+.registerBox{
+	float: right;
+	position: relative;
+	}
+.registerBox li{
+	display: inline-block;
+    float: left;
+    vertical-align: top;
+    margin: 0 0 0 32px;
+	}
+.registerBox li a{
+	background-position: 0 2px;
+    color: #3d3d3d;
+    font-family: Pt Sans Narrow;
+    font-weight: 600;
+    padding: 0 0 17px 21px;
+    vertical-align: top;
+	}
+.registerBox li a:hover{
+	color:#fff;
+	}
+.login{
+	background:url(../images/nepuchapur_tea_login.png) no-repeat 0 0;
+	}
+.register{
+	background: url(../images/nepuchapur_tea_register.png) no-repeat 0 0;
+	 }	
+.loginBox::after {
+    border-bottom: 9px solid rgba(113, 177, 40, 0.5);
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    content: "";
+    height: 1px;
+    position: absolute;
+    right: 108px;
+    top: -14px;
+    width: 1px;
+	}	 
+.loginBox{
+	 background: #fff none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 0 0 0 4px rgba(113, 177, 40, 0.5);
+    padding: 11px;
+    position: absolute;
+    right: 0;
+    top: 36px;
+    width: 300px;
+    z-index: 999;
+	display:none;
+	}
+.registerBox li:hover .loginBox {
+    display: block;
+	}		 
+.loginForm input[type="text"]{
+	background: #f8f8f8 none repeat scroll 0 0;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    color: #232323;
+    display: inline-block;
+    float: left;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 29px;
+    margin: 0 10px 12px 0;
+    padding: 0 10px;
+    text-shadow: 0 0 0 #8f8f8f;
+    vertical-align: top;
+    width: 48%;
+	}
+.loginForm li:first-child input:last-child {
+    float: right;
+    margin-right: 0;
+	}	
+.loginForm input[type="submit"]{
+	background: #71b128 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 4px;
+    color: #fff;
+    float: right;
+    font-family: Pt Sans Narrow;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 4px 20px;
+    text-shadow: 0 0 0 #fff;
+	cursor:pointer;
+	transition: all 250ms ease 0s;
+	}
+.loginForm input[type="submit"]:hover{
+	background: #38660d none repeat scroll 0 0 !important;
+	}
+.loginForm label{
+	border: medium none;
+    border-radius: 3px;
+    color: #606060;
+    font-family: PT Sans Narrow;
+    font-size: 15px;
+    text-shadow: 0 0 0 #606060;
+	}
+.loginForm > li {
+    display: block;
+    float: none;
+    margin: 0;
+	}
+.banner{
+    position: relative;
+	}
+.captionHolder{
+	width:100%;
+	position:absolute;
+	left:0;
+	right:0;
+	z-index:99;
+	top:0;
+	}
+.caption{
+	float: right;
+    margin: 93px 10px 0 0;
+    width: 449px;
+	}
+.camera_caption h1{
+	color: #6b9940;
+    font-family: Source Sans Pro;
+    font-size: 66px;
+    font-weight: 800;
+    line-height: 62px;
+	}
+.camera_caption h2{
+	color: #af2826;
+    font-family: Source Sans Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 48px;
+	}
+.camera_caption h2 span{
+	color: #ff7d01;
+    padding-left: 12px;
+	}
+.camera_caption h3{
+	color: #1c1c1c;
+    font-family: Source Sans Pro;
+    font-size: 38px;
+    font-weight: 500;
+	}
+.camera_caption p{
+	line-height: 21px;
+	}
+.moreBtn {
+    background: #8cc73e none repeat scroll 0 0;
+    color: #fff;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    padding: 8px 0;
+    text-align: center;
+    width: 184px;
+    display: block;
+    border-radius: 7px;
+    margin: 10px 0 87px;
+	position:relative;
+	}	
+.moreBtn:after{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_btn_shadow.png") no-repeat scroll center 0;
+	background-size:100% auto;
+    bottom: -40px;
+    content: "";
+    display: block;
+    height: 37px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    z-index: 999;
+	}
+.responsive_caption{
+	color: #6b9940;
+    display: none;
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 31px;
+	}
+
+
+
+	
+/************   Banner css start ******/
+.banner{
+	position:relative;
+	}	
+.banner:after{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_shadow.png") no-repeat scroll center 0;
+    bottom: -37px;
+    content: "";
+    display: block;
+    height: 37px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    width: auto;
+    z-index: 999;
+	}
+		
+	
+	
+/************   Welcome Section css start ******/
+.welcomeSec{
+	padding: 46px 0;
+    text-align: center;
+	}
+.welcomeSec h3{
+	color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    font-weight: 700;
+	padding:0 0 20px 0;
+	}
+.welcomeSec h3 span{
+	color: #6b9940;
+	padding-left:10px
+	}
+.welcomeSec p{}
+
+
+
+
+/*********  About Us css **************/
+.aboutBox{
+    margin:0 0 30px;
+	}
+.aboutBox .wrapper{
+	border-top: 1px dotted #d5d5d5;
+	border-bottom: 1px dotted #d5d5d5;
+	}
+.aboutUsBox{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_border.png") repeat-y scroll right 0;
+    float: left;
+    padding: 40px 15px 40px 0;
+    width: 50%;
+	}	
+.aboutUsBox h3{
+	color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    font-weight: 700;
+	padding:0 0 20px 0;
+	}
+.aboutUsBox h3 span{
+	color: #6b9940;
+	padding-left:10px
+	}
+.aboutUsBox img{
+	float:right;
+	padding:0 0 10px 20px;
+	}
+.aboutBox p{}
+.btn {
+    background: #6b9940 none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    display: table;
+    font-family: Pt Sans Narrow;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 13px 0 0;
+    padding: 5px 26px;
+    transition: all 250ms ease 0s;
+	}
+.btn:hover{
+    background: #38660d none repeat scroll 0 0;
+	}
+
+
+/*****  Employee part ***/
+.middle_right{
+	float:left;
+	width:50%;
+	}
+.employeeSec{
+    float: left;
+    padding: 40px 25px;
+    width: 50%;
+	}
+.employeeSec img{
+	border-radius:50%;
+	}
+.employeeSec h4{
+	color: #404040;
+    font-family: Pt Sans Narrow;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 5px 0 11px;
+	}
+.employeeSec p{}
+
+
+/*****  Loging Box part ***/
+.loginSection{
+	border: 1px solid #e7e7e7;
+    border-radius: 7px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    float: right;
+    padding: 25px;
+    width: 50%;
+    margin: 40px 0;
+	}
+.loginSection h3{
+	background: rgba(0, 0, 0, 0) url("../images/nepuchapur_tea_login_icon.png") no-repeat scroll 0 0;
+    color: #404040;
+    font-family: Source Sans Pro;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 22px;
+    padding: 17px 0 20px 87px;
+    vertical-align: top;
+	}
+.loginSection h3 span{
+	color: #6b9940;
+	}
+.loginSection input[type="text"]{
+	width:100%;
+	}
+.loginForm p {
+    clear: both;
+	}	
+.loginForm a{
+	color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 700;
+	}	
+.loginSection .btn{
+	background: #6b9940 none repeat scroll 0 0 !important;
+    border-radius: 6px !important;
+    float: left !important;
+    font-size: 26px !important;
+    margin: 16px 0 0;
+    padding: 5px 26px !important;
+	}	
+	
+.gallery{}
+.gallery h3{
+	color: #af2826;
+    font-family: Pt Sans Narrow;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0 0 17px;
+    padding: 0;
+    vertical-align: top;
+	}
+.gallery h3 span{
+	color: #6b9940;
+	}
+.gelleryLists{}
+.gelleryLists li{
+	float:left;
+	box-sizing:border-box;
+	width:25%;
+	display:inline-block;
+	vertical-align:top;
+	position:relative;
+	overflow:hidden;
+	}
+.gelleryLists span{
+	background: rgba(107, 153, 64, 0.5) none repeat scroll 0 0;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 999;
+	opacity:0;
+	transition: all 350ms ease 0s;
+	}
+.gelleryLists span p{
+	color: #fff;
+    font-family: Pt Sans Narrow;
+    font-size: 26px;
+    font-weight: 500;
+    padding: 89px 0 10px;
+    transform: translateY(-150px);
+	transition: all 350ms ease 0s;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+	}
+.gelleryLists li img{
+	transition:all ease 350ms 0s;
+	width:100%;
+	height:auto;
+	vertical-align:bottom;
+	transform: scale(1.0);
+	}
+.gelleryLists li:hover img{
+	transform: scale(1.1);
+	}
+	
+.gelleryLists span img{
+	height: 28px;
+    width: 34px;
+	transition: all 350ms ease 0s;
+	transform: translateY(150px);
+	}
+.gelleryLists li:hover span p, .gelleryLists li:hover span img{
+	transform: translateY(0px);
+	}
+.gelleryLists li:hover span{
+	opacity:1;
+	}
+
+
+/*********  footer start *******/
+footer {
+    padding: 24px 0 0 0;
+	}
+.ft_pattern{
+	background: url(../images/nepuchapur_tea_leaf_silhutte.png) repeat-x center 0;
+	height:36px;
+	}
+.footer_box{
+	background: url(../images/nepuchapur_tea_ft_texture1.png) repeat-x 0 0, url(../images/nepuchapur_tea_pattern2.png) repeat 0 0;
+	}
+.ftLinks{
+	 padding: 29px 0 0;
+	 }
+.ftLinks li{
+	box-sizing: border-box;
+    display: inline-block;
+    float: left;
+	}
+.ftLinks li h4{
+	color: #fff;
+    font-family: Pt Sans Narrow;
+    font-size: 23px;
+    font-weight: 500;
+    padding: 0 0 23px;
+	}
+.ftLinks li li{
+	display:block;
+	float:none;
+	width:100%;
+	}
+.ftLinks li li a, .ftLinks li span{
+	color: #fff;
+    font-family:PT Sans Narrow;
+    font-size: 15px;
+    font-weight: 500;
+	}
+.ftLinks li li a:hover{
+	color: #ff7d01;
+	}
+.ftLinks li span a{
+	color: #fff;
+	}
+.ft_info{
+	padding: 0 22px 0 0;
+    width: 22%;
+	}
+.ft_contact{
+	padding: 0 22px 0 0;
+    width: 31%;
+	}
+.map{
+	padding: 0 30px 0 0;
+    width: 24%;
+	}
+.map iframe{
+	border: 4px solid #94b37e;
+    border-radius: 3px;
+    box-sizing: border-box;
+    height: 164px;
+    width: 100%;
+	}
+.ftSocialBox{
+	float: right !important;
+    padding: 0;
+    width: 23%;
+	}
+.ft_social{
+	border-right: medium none !important;
+    float: right;
+	}	
+.ft_info li {
+    padding: 0 0 7px;
+	}
+.ftLinks li ul, .ft_cnt, .map span{
+	border-right:1px solid #6e9e48;
+	}
+.map > span {
+    display: block;
+    margin-top: 54px;
+    padding: 0 20px 0 0;
+	}
+.ft_social li{
+	 display: inline-block !important;
+    float: left !important;
+    margin: 0 0 0 10px;
+    vertical-align: top;
+    width: 30px !important;
+	}
+.ft_social li a{
+	display:block;
+	width:30px;
+	height:26px;
+	}	
+.ftSocialBox img {
+    float: right;
+    padding-bottom: 16px;
+    padding-top: 54px;
+	}	
+.ft_facebook{
+	background: url(../images/nepuchapur_tea_ft_facebook.png) no-repeat center;
+	}
+.ft_google{
+	background: url(../images/nepuchapur_tea_ft_google.png) no-repeat center;
+	}
+.ft_twitter{
+	background: url(../images/nepuchapur_tea_ft_twitter.png) no-repeat center;
+	}
+.ft_facebook:hover{
+	background: url(../images/nepuchapur_tea_ft_facebookH.png) no-repeat center;
+	}
+.ft_google:hover{
+	background: url(../images/nepuchapur_tea_ft_googleH.png) no-repeat center;
+	}
+.ft_twitter:hover{
+	background: url(../images/nepuchapur_tea_ft_twitterH.png) no-repeat center;
+	}
+.ftSocialBox img {
+    padding-top: 54px;
+	}
+.ft_cnt {
+    min-height: 171px;
+    padding: 0 110px 0 0;
+	}
+.ft_cnt span {
+    display: block;
+    padding: 0 0 11px;
+	}
+
+.copyright{
+	clear:both;
+	}
+.copyright > p {
+    color: #90c869;
+    font-family: PT Sans Narrow;
+    font-size: 14px;
+    font-weight: 500;
+	padding:30px 0 12px;
+	}
+
+
+
+
+
+/****************************
+	About Page css
+*******************************/
+.aboutPg .aboutUsBox{
+	float:none;
+	width:auto;
+	background: none;
+	}
+.aboutPg .aboutBox .wrapper {
+    border-bottom:none;
+	}
+.aboutPg .aboutBox a{
+    color: #ff7d01;
+	}
+.aboutThumb {
+    border: 10px solid #dcdcdc;
+    border-radius: 50%;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
+    float: right;
+    height: 180px;
+    margin: 0 0 10px 30px;
+    padding: 0;
+    width: 180px;
+	overflow:hidden;
+	}
+.aboutThumb img{
+	width:100%;
+	height:auto;
+	min-height:100%;
+	border-radius: 50%;
+	padding:0;
+	}
+
+
+
+
+
+/****************************
+	Gallery Page css
+*******************************/
+.galleryPgBox h3 {
+    color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 38px 0 20px;
+	text-align:center;
+	}
+.galleryPgBox h3 span {
+    color: #6b9940;
+    padding-left: 10px;
+	}	
+.gallery.galleryPgBox li{
+	margin: 0 2% 2% 0;
+    width: 23.5%;
+	}
+.gallery.galleryPgBox li:nth-child(4n){
+	margin-right:0;
+	}
+
+
+
+
+
+
+
+
+
+
+/****************************
+	Contact Page css
+*******************************/
+.contactPg{}
+.contactPg h3 {
+    color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 38px 0 20px;
+	text-align:center;
+	}
+.contactPg h3 span {
+    color: #6b9940;
+    padding-left: 10px;
+	}	
+.contacts{
+	float: left;
+    width: 40%;
+	}
+.contacts > p {
+    font-size: 19px;
+    font-weight: 400;
+    padding: 0 0 41px;
+	}	
+.contacts span{
+	 color: #868686;
+    display: block;
+    font-family: Source Sans Pro;
+    font-size: 28px;
+    font-weight: 500;
+    margin: 0 0 30px;
+    padding: 0 0 0 40px;
+	}
+.contacts span a{
+	color: #868686;
+    display: block;
+	}
+.loc{
+	background: url(../images/nepuchapur_tea_loc.png) no-repeat 0 8px;
+	}
+.phone{
+	background: url(../images/nepuchapur_tea_call.png) no-repeat 0 4px;
+	}
+.cntForm{
+	background: #e6e6e6 none repeat scroll 0 0;
+    float: right;
+    padding: 30px;
+    width: 50%;
+	}
+.cntForm ul li{
+	margin: 0 0 8px;
+	}
+.cntForm ul li input[type='text']{
+	 background: #fff none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45) inset;
+    box-sizing: border-box;
+    color: #000000;
+    display: block;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 35px;
+    padding: 0 15px;
+    width: 100%;
+	}
+.cntForm ul li textarea{
+	 background: #fff none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45) inset;
+    box-sizing: border-box;
+    color: #000000;
+    display: block;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 35px;
+    padding: 0 15px;
+    width: 100%;
+	height:90px;
+	resize:none;
+	}
+.captcha > input {
+    float: right;
+    width: 72% !important;
+	}	
+.cntForm li input[type="submit"] {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-family: Raleway;
+    font-size: 15px !important;
+    font-weight: 600;
+    line-height: 40px;
+    text-transform: uppercase;
+	cursor:pointer;
+	}
+
+
+
+
+
+
+
+/********** Tea Grades pages css   **********/
+.teaGrades{}
+.teaGrades ul{
+	padding: 10px 0 0 47px;
+	}
+.teaGrades li{
+	color: #868686;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    list-style: outside none numeric;
+    margin: 0 0 4px;
+    padding: 0 0 8px;
+    text-shadow: 0 0 0 #868686;
+	}
+.teaGrades .aboutThumb {
+    height: 224px;
+    width: 224px;
+	}
+.teaGrades h4{
+	color: #ff7d01;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    list-style: outside none numeric;
+    margin: 17px 0 0;
+    padding: 0 0 2px;
+    text-shadow: 0 0 0 #868686;
+	}
+
+
+
+
+
+

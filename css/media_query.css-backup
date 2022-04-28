@@ -1,0 +1,1958 @@
+@media only screen and (min-width:1051px){
+
+}
+
+
+@media only screen and (min-width:960px) and (max-width:1149px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    width: 62%;
+	}
+.header_main_cnt{
+	background-size: auto auto;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    margin: 0 2% 0 0;
+    padding: 10px;
+    width: 21.1%;
+	}
+.main_videoBox iframe {
+    height: 282px;
+    width: 100%;
+	}
+.main_videoBox {
+    background-size:100% auto;
+    margin: 0 22px 0 0;
+    width: 535px;
+	padding: 14px 15px 58px 16px;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 48%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 6px;
+    width: 48.8%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.latest_news li {
+    font-size: 14px;
+    line-height: 20px;
+    width: auto !important;
+	}
+.newsletter_Box {
+    float: left !important;
+    width: 45% !important;
+	}
+.latest_news {
+    width: 45% !important;
+	}
+.ftNav ul li {
+    margin: 0 7% 20px 0;
+    width: 45%;
+	}
+.ftNav ul li:nth-child(2n){
+    margin-right:0;
+	}
+.ftSocial li {
+    margin: 0 10px 0 0 !important;
+	}
+.captcha {
+    width: 200px;
+	}
+
+
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 15px;
+	}
+.innerPg_bn {
+    width: 100%;
+	}
+
+
+
+
+
+
+
+
+
+
+	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    float: none;
+    width: 100%;
+	}
+.header_main_cnt{
+	background-size: auto 100%;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    margin: 0 2% 0 0;
+    padding: 10px;
+    width: 46%;
+	}
+.serviceBox li:nth-child(2n) {
+    margin-right: 0;
+	}	
+.main_videoBox iframe {
+    height: 344px;
+    width: 100%;
+	}
+.main_videoBox {
+    background-size: 100% auto;
+    display: block;
+    float: none;
+    margin: 0 auto;
+    padding: 14px 15px 66px 16px;
+    width: 648px;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 48%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 6px;
+    width: 48.8%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.latest_news li {
+    font-size: 14px;
+    line-height: 20px;
+	width: auto !important;
+	}
+.newsletter_Box {
+    width: 45% !important;
+	float:left !important;
+	}
+.latest_news {
+    width: 45% !important;
+	}
+.logo {
+    float: left;
+    margin-left: 39%;
+	}
+.mean-nav {
+    position: absolute;
+	}
+.latest_events_box {
+    background: rgba(0, 0, 0, 0) url("../images/CFAN-latest-news-bg.jpg") repeat-x scroll 0 0;
+    display: block;
+	}
+.latest_event li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.latest_event li {
+    margin: 0 0 9px;
+	}
+.header_bottom_bar span h6 {
+    padding: 22px 7px 0;
+	}
+.header_bottom_bar span {
+    width: 40%;
+	}
+.donate a {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 7px auto 0;
+    padding: 15px;
+	}
+.donate {
+    width: 20% !important;
+	}
+.live_videos {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.live_videos ul li{
+	float:none;
+	}
+.workship_times {
+    float: none;
+    margin: 0 0px 0 0;
+    padding: 10px;
+    width: auto;
+	}
+.photo_gallery {
+    float: none;
+    margin: 24px 0 0;
+    width: auto;
+	}
+.live_videos h2 {
+    margin: 0 0 21px;
+    padding: 1px 0 9px;
+	}
+#nt-example15-container .fa.fa-arrow-up, #nt-example15-container .fa.fa-arrow-down {
+    top: -63px !important;
+	}
+.aboutBox {
+    padding: 26px 0;
+	}
+.ftNav ul li {
+    margin: 0 7% 20px 0;
+    width: 45%;
+	}
+.ftNav ul li:nth-child(2n){
+    margin-right:0;
+	}
+.ftSocial li {
+    margin: 0 10px 0 0 !important;
+	}
+.captcha {
+    width: 200px;
+	}
+
+
+
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 15px;
+	}
+.innerPg_bn {
+    width: 100%;
+	}
+.camera_caption p {
+    font-weight: 400;
+    line-height: 20px;
+    padding: 0 0 10px;
+	}	
+.camera_caption {
+    padding: 9px 10px;
+	}
+.bloginfo {
+    float: none;
+    padding: 15px;
+    width: auto;
+	}
+.blogDetail {
+    padding: 15px;
+	}
+.blogDetail p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 0 0 6px;
+	}
+.blogeMore {
+    float: right;
+    font-size: 15px;
+    margin: 7px 0 0;
+	}
+.blogeMore::after {
+    height: 2px;
+	}
+.yourSoulBlogs {
+    width: 69%;
+	}
+.blogSidePanel {
+    width: 27%;
+	}
+.widgetBox h3 {
+    font-size: 25px;
+    padding: 0 0 4px;
+	}
+.searchBox input[type="submit"] {
+    font-size: 14px;
+    padding: 3px 19px;
+	}
+
+
+
+
+/***********  your Soul Details page ********/
+.blogPannel {
+    width: 69%;
+	}
+.blogComment li input[type="submit"] {
+    font-size: 17px;
+    font-weight: 400;
+    padding: 7px 20px;
+	}
+.blogComment li input[type="text"] {
+    font-size: 13px;
+    font-weight: 700;
+	}
+.blogComment li textarea {
+    font-size: 13px;
+    font-weight: 700;
+	height: 80px;
+	}
+
+
+
+/***********  Prayer Request page ********/
+.captchaBox {
+    float: none;
+    margin: 0 0 20px;
+	}
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    float: none;
+    width: 100%;
+	}
+.header_main_cnt{
+	background-size: auto 100%;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    margin: 0 2% 0 0;
+    padding: 10px;
+    width: 45.5%;
+	}
+.serviceBox li:nth-child(2n) {
+    margin-right: 0;
+	}	
+.main_videoBox iframe {
+    height: 322px;
+    width: 100%;
+	}
+.main_videoBox {
+    background-size: 100% auto;
+    display: block;
+    float: none;
+    margin: 0 auto;
+    padding: 14px 15px 66px 16px;
+    width: 606px;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 48%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 6px;
+    width: 48.8%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.newsletter_Box {
+    width: 100% !important;
+	float: none !important;
+	}
+.latest_news {
+    width: 100% !important;
+	}
+.logo {
+    margin-left: 34.5%;
+	}
+.camera_caption p {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+	}	
+.innerPg_bn img {
+    height: 223px;
+    width: auto;
+	}	
+.mean-nav {
+    position: absolute;
+	}
+.latest_events_box {
+    background: rgba(0, 0, 0, 0) url("../images/CFAN-latest-news-bg.jpg") repeat-x scroll 0 0;
+    display: block;
+	}
+.latest_event li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.latest_event li {
+    margin: 0 0 9px;
+	}
+.header_bottom_bar span h6 {
+    padding: 7px 7px 0;
+	}
+.header_bottom_bar span {
+    margin: 0 0 5px;
+    width: 100%;
+	}
+.donate a {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 16px auto 0;
+    padding: 15px;
+	}
+.donate {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    width: 141px !important;
+	}
+.live_videos {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.live_videos ul li{
+	float:none;
+	}
+.workship_times {
+    float: none;
+    margin: 0 0px 0 0;
+    padding: 10px;
+    width: auto;
+	}
+.photo_gallery {
+    float: none;
+    margin: 24px 0 0;
+    width: auto;
+	}
+.live_videos h2 {
+    margin: 0 0 21px;
+    padding: 1px 0 9px;
+	}
+#nt-example15-container .fa.fa-arrow-up, #nt-example15-container .fa.fa-arrow-down {
+    top: -63px !important;
+	}
+.aboutBox {
+    padding: 26px 0;
+	}
+.top_social li {
+    margin: 0 0 0 4px;
+	}
+.non_sliderSapan span:last-child {
+    float: none;
+	}
+.non_sliderSapan span:last-child img {
+    float: left;
+	}
+.non_sliderSapan span:last-child h6 {
+    float: left;
+	}
+.header_bottom_bar span img {
+    height: auto;
+    width: 38px;
+	}
+.aboutBox h1 {
+    font-size: 29px;
+	}
+.latest_news li {
+    font-size: 14px;
+    line-height: 20px;
+	width: auto !important;
+	}
+.ftNav ul li {
+    display: block;
+    float: none;
+    margin: 0 0 34px;
+    width: auto;
+	}
+.ftNav ul li:nth-child(2n){
+    margin-right:0;
+	}
+.ftSocial li {
+    display: inline-block !important;
+    float: left !important;
+    margin: 0 10px 0 0 !important;
+	}
+.captcha {
+    width: 200px;
+	}
+.ftNav li h3 {
+    margin: 0 0 20px;
+	}
+	
+	
+	
+	
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 15px;
+	}
+.innerPg_bn {
+    width: 100%;
+	overflow:hidden;
+	}
+.banner_news_sec {
+    padding: 0 0 21px;
+	}	
+.bloginfo {
+    float: none;
+    padding: 15px;
+    width: auto;
+	}
+.blogDetail {
+    padding: 15px;
+	}
+.blogDetail p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 0 0 6px;
+	}
+.blogeMore {
+    float: right;
+    font-size: 15px;
+    margin: 7px 0 0;
+	}
+.blogeMore::after {
+    height: 2px;
+	}
+.yourSoulBlogs {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.blogSidePanel {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.widgetBox h3 {
+    font-size: 25px;
+    padding: 0 0 4px;
+	}
+.searchBox input[type="submit"] {
+    font-size: 14px;
+    padding: 3px 19px;
+	}
+.innerpage h1 {
+    font-size: 26px;
+    padding: 0 0 14px;
+	}
+	
+	
+	
+/***********  your Soul Details page ********/
+.blogPannel {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.blogComment li input[type="submit"] {
+    font-size: 17px;
+    font-weight: 400;
+    padding: 7px 20px;
+	}
+.blogComment li input[type="text"] {
+    font-size: 13px;
+    font-weight: 700;
+	}
+.blogComment li textarea {
+    font-size: 13px;
+    font-weight: 700;
+	height: 80px;
+	}
+.comments li p {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+	}
+
+
+/***********  Prayer Request page ********/
+.captchaBox {
+    float: none;
+    margin: 0 0 20px;
+	}
+.requestForm li input[type="text"], .requestForm li textarea{
+    font-size: 15px;
+    padding: 12px;
+	}
+.requestForm li input[type="submit"] {
+    font-size: 17px;
+    padding: 10px 37px;
+	}
+
+
+
+
+
+	
+	
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    float: none;
+    width: 100%;
+	}
+.header_main_cnt{
+	background-size: auto 100%;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    margin: 0 2% 0 0;
+    padding: 10px;
+    width: 44.4%;
+	}
+.serviceBox li:nth-child(2n) {
+    margin-right: 0;
+	}	
+.main_videoBox iframe {
+    height: 238px;
+    width: 100%;
+	}
+.main_videoBox {
+     background-size: 100% auto;
+    display: block;
+    float: none;
+    margin: 0 auto;
+    padding: 11px 13px 48px 12px;
+    width: 446px;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 48%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 0;
+    width: 100%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.latest_news li {
+    font-size: 14px;
+    line-height: 20px;
+    width: auto !important;
+	}
+.newsletter_Box {
+    float: left !important;
+    width: 100% !important;
+	}
+.latest_news {
+    width:auto !important;
+	}
+.logo {
+    margin-left:31.5%;
+	}
+.mean-nav {
+    position: absolute;
+	}
+.latest_events_box {
+    background: rgba(0, 0, 0, 0) url("../images/CFAN-latest-news-bg.jpg") repeat-x scroll 0 0;
+    display: block;
+	}
+.latest_event li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.latest_event li {
+    margin: 0 0 9px;
+	}
+.header_bottom_bar span h6 {
+    padding: 7px 7px 0;
+	}
+.header_bottom_bar span {
+    margin: 0 0 5px;
+    width: 100%;
+	}
+.donate a {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 16px auto 0;
+    padding: 15px;
+	}
+.donate {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    width: 141px !important;
+	}
+.live_videos {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.live_videos ul li{
+	float:none;
+	}
+.workship_times {
+    float: none;
+    margin: 0 0px 0 0;
+    padding: 10px;
+    width: auto;
+	}
+.photo_gallery {
+    float: none;
+    margin: 24px 0 0;
+    width: auto;
+	}
+.live_videos h2 {
+    margin: 0 0 21px;
+    padding: 1px 0 9px;
+	}
+#nt-example15-container .fa.fa-arrow-up, #nt-example15-container .fa.fa-arrow-down {
+    top: -63px !important;
+	}
+.aboutBox {
+    padding: 26px 0;
+	}
+.top_social li {
+    margin: 0 0 0 4px;
+	}
+.non_sliderSapan span:last-child {
+    float: none;
+	}
+.non_sliderSapan span:last-child img {
+    float: left;
+	}
+.non_sliderSapan span:last-child h6 {
+    float: left;
+	}
+.header_bottom_bar span img {
+    height: auto;
+    width: 38px;
+	}
+.aboutBox h1 {
+     font-size: 26px;
+    padding: 0 0 9px;
+	}
+.top_social {
+    display: none;
+	}
+.top_cnt {
+    padding: 7px 0 0;
+	}
+.mainNav {
+    margin-bottom: 12px;
+	}
+.gallery_cnt ul:last-child {
+    float: none;
+    width: 100%;
+	}
+.photo_gallery a {
+    margin: 7px auto 12px;
+	}
+.ftNav ul li {
+    margin: 0 0 34px 0;
+    width: auto;
+	float:none;
+	display:block;
+	}
+.ftSocial li {
+    margin: 0 10px 0 0 !important;
+	float:left !important;
+	display:inline-block !important;
+	}
+.captcha {
+    width: 200px;
+	}
+.ftNav li h3 {
+    margin: 0 0 20px;
+	}
+.ftNav {
+    padding: 53px 0 0;
+	}
+
+
+
+
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 15px;
+	}
+.innerPg_bn {
+    width: 100%;
+	}
+.innerPg_bn .camera_caption{
+	display:none !important;
+	}	
+.banner_news_sec {
+    padding: 0 0 13px;
+	}	
+.bloginfo {
+    float: none;
+    padding: 15px;
+    width: auto;
+	}
+.blogDetail {
+    padding: 15px;
+	}
+.blogDetail p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 0 0 6px;
+	}
+.blogeMore {
+    float: right;
+    font-size: 15px;
+    margin: 7px 0 0;
+	}
+.blogeMore::after {
+    height: 2px;
+	}
+.yourSoulBlogs {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.blogSidePanel {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.widgetBox h3 {
+    font-size: 25px;
+    padding: 0 0 4px;
+	}
+.searchBox input[type="submit"] {
+    font-size: 14px;
+    padding: 3px 19px;
+	}
+.innerpage h1 {
+    font-size: 26px;
+    padding: 0 0 14px;
+	}
+.bloginfo span {
+    line-height: 29px;
+	}
+.blogInfoBox h4 {
+    line-height: 26px;
+	}
+
+
+
+
+/***********  your Soul Details page ********/
+.blogPannel {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.blogComment li input[type="submit"] {
+    font-size: 17px;
+    font-weight: 400;
+    padding: 7px 20px;
+	}
+.blogComment li input[type="text"] {
+    font-size: 13px;
+    font-weight: 700;
+	}
+.blogComment li textarea {
+    font-size: 13px;
+    font-weight: 700;
+	height: 80px;
+	}
+.comments li p {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+	}
+
+
+
+
+
+/***********  Prayer Request page ********/
+.captchaBox {
+    float: none;
+    margin: 0 0 20px;
+	}
+.requestForm li input[type="text"], .requestForm li textarea{
+    font-size: 15px;
+    padding: 12px;
+	}
+.requestForm li input[type="submit"] {
+    font-size: 17px;
+    padding: 10px 37px;
+	}
+.checkbox p {
+    padding: 0 24px 4px 0;
+	}
+
+
+	
+
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    float: none;
+    width: 100%;
+	}
+.header_main_cnt{
+	background-size: auto 100%;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    display: block;
+    float: none;
+    margin: 0 0 30px;
+    padding: 10px;
+    width: auto;
+	}
+.serviceBox li:nth-child(2n) {
+    margin-right: 0;
+	}	
+.main_videoBox iframe {
+    height: 238px;
+    vertical-align: bottom;
+    width: 100%;
+	}
+.main_videoBox {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 6px solid #797979;
+    display: block;
+    float: none;
+    margin: 0 0 20px;
+    padding: 0;
+    width: auto;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 48%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 0;
+    width: 100%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.latest_news li {
+    font-size: 14px;
+    line-height: 20px;
+    width: auto !important;
+	}
+.newsletter_Box {
+    width: 100% !important;
+	}
+.latest_news {
+    width: auto !important;
+	}
+.ftNav ul li {
+    margin: 0 2% 0 0;
+    width: 269px;
+	}
+.logo {
+    float: none;
+    margin: 0 auto;
+	}
+.banner_news_sec {
+    padding: 0 0 13px;
+	}	
+.mean-nav {
+    position: absolute;
+	}
+.latest_events_box {
+    background: rgba(0, 0, 0, 0) url("../images/CFAN-latest-news-bg.jpg") repeat-x scroll 0 0;
+    display: block;
+	}
+.latest_event li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.latest_event li {
+    margin: 0 0 9px;
+	}
+.header_bottom_bar span h6 {
+    padding: 7px 7px 0;
+	}
+.header_bottom_bar span {
+    margin: 0 0 5px;
+    width: 100%;
+	}
+.donate a {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    padding: 12px;
+	}
+.donate {
+    margin-right: -62px !important;
+    position: absolute;
+    right: 50%;
+    top: 0;
+    width: 124px !important;
+	}
+.live_videos {
+    display: block;
+    float: none;
+    width: auto;
+	padding: 10px;
+	}
+.live_videos ul li{
+	float:none;
+	}
+.workship_times {
+    float: none;
+    margin: 0 0px 0 0;
+    padding: 10px;
+    width: auto;
+	}
+.photo_gallery {
+    float: none;
+    margin: 24px 0 0;
+    width: auto;
+	}
+.live_videos h2 {
+    font-size: 21px;
+    margin: 0 0 21px;
+    padding: 1px 0 5px;
+	}
+.aboutBox {
+    padding: 26px 0;
+	}
+.top_social li {
+    margin: 0 0 0 4px;
+	}
+.non_sliderSapan span:last-child {
+    float: none;
+	}
+.non_sliderSapan span:last-child img {
+    float: left;
+	}
+.non_sliderSapan span:last-child h6 {
+    float: left;
+	}
+.header_bottom_bar span img {
+    height: auto;
+    width: 38px;
+	}
+.aboutBox h1 {
+     font-size: 26px;
+    padding: 0 0 9px;
+	}
+.top_social {
+    display: none;
+	}
+.top_cnt {
+    padding: 7px 0 0;
+	}
+.mainNav {
+    margin-bottom: 12px;
+	}
+.gallery_cnt ul:last-child {
+    float: none;
+    width: 100%;
+	}
+.photo_gallery a {
+    margin: 7px auto 12px;
+	}
+.latest_event li p {
+    font-size: 14px;
+    line-height: 19px;
+    padding: 7px 0 0;
+	}	
+.count_title {
+    display: block;
+    float: none;
+    padding: 0 0 9px;
+    text-align: center;
+	}	
+.next_event_box span h2 {
+    padding: 0 0 3px;
+	}
+.is-countdown {
+    margin: 0 auto;
+	}
+.coundown_box {
+    color: #c3c3c3;
+    float: none;
+	}
+.non_sliderSapan span:first-child {
+    margin-top: 53px;
+	}	
+.about_thumnail {
+    float: none;
+    margin: 0 0 14px;
+    text-align: center;
+	}	
+.live_videos h2::after {
+    height: 1px;
+    width: 60px;
+	}
+#nt-example15-container .fa.fa-arrow-up, #nt-example15-container .fa.fa-arrow-down {
+    top: -51px !important;
+	}
+.fa.fa-arrow-up {
+    right: 34px;
+	}
+.fa.fa-arrow-down {
+    right: 0;
+	}
+.video_thumbnails iframe {
+    width: 79px;
+	}
+.workship_times h2 {
+    font-size: 21px;
+	}
+.workship_times h2:after{
+	height: 1px;
+    width: 60px;
+	}
+.serviceBox li h3 {
+    padding: 0 0 5px;
+	}
+.photo_gallery h2 {
+    font-size: 27px;
+    margin: 0 0 14px;
+    padding: 0 0 6px;
+	}
+
+.ftNav ul li {
+    margin: 0 0 34px 0;
+    width: auto;
+	float:none;
+	display:block;
+	}
+.ftSocial li {
+    display: inline-block !important;
+    float: left !important;
+    margin: 0 10px 0 0 !important;
+	}
+.captcha {
+    width: 200px;
+	}
+.ftNav li h3 {
+    margin: 0 0 20px;
+	}
+.ftNav {
+    padding: 53px 0 0;
+	}
+
+
+
+
+
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 15px;
+	}
+.innerPg_bn {
+    overflow: hidden;
+    width: 100%;
+	}
+.camera_caption{
+	display:none !important;
+	}
+.innerPg_bn img {
+    height: 100px;
+    width: auto;
+	}		
+.bloginfo {
+    float: none;
+    padding: 15px;
+    width: auto;
+	}
+.blogDetail {
+    padding: 15px;
+	}
+.blogDetail p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 0 0 6px;
+	}
+.blogeMore {
+    float: right;
+    font-size: 13px;
+    margin: 7px 0 0;
+    padding: 0 0 0 20px;
+	}
+.blogeMore::after {
+    height: 2px;
+    width: 14px;
+	}
+.yourSoulBlogs {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.blogSidePanel {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.widgetBox h3 {
+    font-size: 25px;
+    padding: 0 0 4px;
+	}
+.searchBox input[type="submit"] {
+    font-size: 14px;
+    padding: 3px 19px;
+	}
+.innerpage h1 {
+    font-size: 25px;
+    padding: 0 0 12px;
+	}
+.bloginfo span {
+    line-height: 29px;
+	}
+.blogInfoBox h4 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22px;
+    padding: 0 0 5px;
+	}
+.yourSoulBlogs li {
+    margin: 0 0 17px;
+	}
+
+
+
+
+/***********  your Soul Details page ********/
+.blogPannel {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.blogComment li input[type="submit"] {
+    font-size: 17px;
+    font-weight: 400;
+    padding: 7px 20px;
+	}
+.blogComment li input[type="text"] {
+    font-size: 13px;
+    font-weight: 700;
+	}
+.blogComment li textarea {
+    font-size: 13px;
+    font-weight: 700;
+	height: 80px;
+	}
+.comments li p {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+	}
+.soulBlogDetails .blogInfoBox h4{
+	font-size: 16px;
+    line-height: 20px;
+	padding: 10px;
+	}
+.soulBlogDetails .blogDetail{
+	padding:10px;
+	}
+.blogDetail ul {
+    margin: 0;
+	}
+.blogDetail li {
+    line-height: 19px;
+	}
+.soulBlogDetails .bloginfo span {
+    display: block;
+    float: none;
+    line-height: 21px;
+	}
+.soulBlogDetails .bloginfo {
+    padding: 15px;
+	}
+.soulBlogDetails .blogDate {
+    float: none !important;
+    text-align: left;
+	}	
+.blogComment {
+    padding: 15px;
+	}
+.blogComment h4 {
+    font-size: 27px;
+	}
+	
+	
+	
+	
+
+/***********  Prayer Request page ********/
+.captchaBox {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.requestForm li input[type="text"], .requestForm li textarea{
+    font-size: 15px;
+    padding: 12px;
+	}
+.requestForm li input[type="submit"] {
+    font-size: 17px;
+    padding: 10px 37px;
+	}
+.checkbox p {
+    line-height: 21px;
+    padding: 0 0 9px;
+	}
+.requestForm li input[type="text"] {
+    margin: 0 0 14px;
+    width: 100%;
+	}
+.requestForm li input[type="text"]:first-child {
+    float: none;
+	}	
+.requestForm li {
+    margin: 0;
+	}	
+.checkbox {
+    margin-bottom: 10px !important;
+	}	
+.requestForm li textarea{
+	margin-bottom: 10px;
+	}
+
+			
+	
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+    padding: 17px 12px !important;
+	}
+.mega_NAV {
+    width: 844px !important;
+	}
+.megaNavDep {
+    width: 32% !important;
+	}
+#header .navMenu ul li ul li a {
+    padding: 9px 10px !important;
+	}
+.bannerBox {
+    float: none;
+    width: 100%;
+	}
+.header_main_cnt{
+	background-size: auto 100%;
+	background-position:center center;
+	}
+.aboutBox .wrapper {
+    margin: 0 10px;
+	}
+.serviceBox li {
+    display: block;
+    float: none;
+    margin: 0 0 30px;
+    padding: 10px;
+    width: auto;
+	}
+.serviceBox li:nth-child(2n) {
+    margin-right: 0;
+	}	
+.main_videoBox iframe {
+    height: 238px;
+    vertical-align: bottom;
+    width: 100%;
+	}
+.main_videoBox {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 6px solid #797979;
+    display: block;
+    float: none;
+    margin: 0 0 20px;
+    padding: 0;
+    width: auto;
+	}
+.live_videos li h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+.live_videos li p {
+    font-size: 13px;
+    line-height: 16px;
+	}
+.gallery_cnt ul li {
+    width: 100%;
+	}
+.gallery_cnt ul:first-child {
+    margin-right: 0;
+    width: 100%;
+	}
+.gallery_sec {
+    margin-top: 50px;
+	}
+.latest_news li {
+     font-size: 14px;
+    line-height: 20px;
+    width: auto !important;
+	}
+.newsletter_Box {
+     float: left !important;
+    width: 100% !important;
+	}
+.latest_news {
+    width: auto !important;
+	}
+.ftNav ul li {
+    margin: 0 2% 0 0;
+    width: 269px;
+	}
+.logo {
+    float: none;
+    margin: 0 auto;
+    width: 110px;
+	}
+.logo img {
+    height: auto;
+    width: 100%;
+	}
+.banner_news_sec {
+    padding: 0 0 10px;
+	}		
+.mean-nav {
+    position: absolute;
+	}
+.latest_events_box {
+    background: rgba(0, 0, 0, 0) url("../images/CFAN-latest-news-bg.jpg") repeat-x scroll 0 0;
+    display: block;
+	}
+.latest_event li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.latest_event li {
+    margin: 0 0 9px;
+	}
+.header_bottom_bar span h6 {
+    font-size: 13px;
+    font-weight: 700;
+    padding: 7px 7px 0;
+	}
+.header_bottom_bar span {
+    margin: 0 0 5px;
+    width: 100%;
+	}
+.donate a {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0;
+    padding: 9px 12px;
+	}
+.donate {
+    margin-right: -62px !important;
+    position: absolute;
+    right: 50%;
+    top: 0;
+    width:115px !important;
+	}
+.live_videos {
+    display: block;
+    float: none;
+    width: auto;
+	padding: 10px;
+	}
+.live_videos ul li{
+	float:none;
+	}
+.workship_times {
+    float: none;
+    margin: 0 0px 0 0;
+    padding: 10px;
+    width: auto;
+	}
+.photo_gallery {
+    float: none;
+    margin: 24px 0 0;
+    width: auto;
+	}
+.live_videos h2 {
+    font-size: 21px;
+    margin: 0 0 21px;
+    padding: 1px 0 5px;
+	}
+.aboutBox {
+    padding: 26px 0;
+	}
+.top_social li {
+    margin: 0 0 0 4px;
+	}
+.non_sliderSapan span:last-child {
+    float: none;
+	}
+.non_sliderSapan span:last-child img {
+    float: left;
+	}
+.non_sliderSapan span:last-child h6 {
+    float: left;
+	}
+.header_bottom_bar span img {
+    height: auto;
+    width: 29px;
+	}
+.aboutBox h1 {
+     font-size: 26px;
+    padding: 0 0 9px;
+	}
+.top_social {
+    display: none;
+	}
+.top_cnt {
+    padding: 7px 0 0;
+	}
+.mainNav {
+    margin-bottom: 12px;
+	}
+.gallery_cnt ul:last-child {
+    float: none;
+    width: 100%;
+	}
+.photo_gallery a {
+    margin: 7px auto 12px;
+	}
+.latest_event li p {
+    font-size: 14px;
+    line-height: 19px;
+    padding: 7px 0 0;
+	}	
+.count_title {
+    display: block;
+    float: none;
+    padding: 0 0 9px;
+    text-align: center;
+	}	
+.next_event_box span h2 {
+    padding: 0 0 3px;
+	}
+.is-countdown {
+    margin: 0 auto;
+	}
+.coundown_box {
+    color: #c3c3c3;
+    float: none;
+	}
+.non_sliderSapan span:first-child {
+    margin-top: 53px;
+	}	
+.about_thumnail {
+    float: none;
+    margin: 0 0 14px;
+    text-align: center;
+	}	
+.live_videos h2::after {
+    height: 1px;
+    width: 60px;
+	}
+#nt-example15-container .fa.fa-arrow-up, #nt-example15-container .fa.fa-arrow-down {
+    top: -51px !important;
+	}
+.fa.fa-arrow-up {
+    right: 34px;
+	}
+.fa.fa-arrow-down {
+    right: 0;
+
+	}
+.video_thumbnails iframe {
+    width: 79px;
+	}
+.workship_times h2 {
+    font-size: 21px;
+	}
+.workship_times h2:after{
+	height: 1px;
+    width: 60px;
+	}
+.serviceBox li h3 {
+    padding: 0 0 5px;
+	}
+.photo_gallery h2 {
+    font-size: 27px;
+    margin: 0 0 14px;
+    padding: 0 0 6px;
+	}
+.camera_wrap {
+    height: 266px !important;
+	}
+.camera_target_content {
+    display: none;
+	}
+.latest_event {
+    padding: 15px;
+	}
+
+
+.ftNav ul li {
+    margin: 0 0 34px 0;
+    width: auto;
+	float:none;
+	display:block;
+	}
+.ftSocial li {
+    display: inline-block !important;
+    float: left !important;
+    margin: 0 10px 0 0 !important;
+	}
+.captcha {
+    width: 200px;
+	}
+.ftNav li h3 {
+    font-size: 25px;
+    margin: 0 0 16px;
+    padding: 0 0 3px;
+	}
+.ftNav {
+    padding: 53px 0 0;
+	}
+
+
+
+
+
+
+/***********  your Soul page ********/
+.innerpage .wrapper {
+    margin: 0 10px;
+    padding: 10px;
+	}
+.innerPg_bn {
+    overflow: hidden;
+    width: 100%;
+	}
+.camera_caption{
+	display:none !important;
+	}
+.innerPg_bn img {
+    height: 80px;
+    width: auto;
+	}		
+.bloginfo {
+    float: none;
+    padding: 15px;
+    width: auto;
+	}
+.blogDetail {
+    padding: 15px;
+	}
+.blogDetail p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 0 0 6px;
+	}
+.blogeMore {
+    float: right;
+    font-size: 13px;
+    margin: 7px 0 0;
+    padding: 0 0 0 20px;
+	}
+.blogeMore::after {
+    height: 2px;
+    width: 14px;
+	}
+.yourSoulBlogs {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.blogSidePanel {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.widgetBox h3 {
+    font-size: 25px;
+    padding: 0 0 4px;
+	}
+.searchBox input[type="submit"] {
+    font-size: 14px;
+    padding: 3px 19px;
+	}
+.innerpage h1 {
+    font-size: 23px;
+    line-height: 26px;
+    padding: 0 0 12px;
+	}
+.innerpage h1 span {
+    color: #0d2b47;
+    display: block;
+	}	
+.bloginfo span {
+    line-height: 29px;
+	}
+.blogInfoBox h4 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22px;
+    padding: 0 0 5px;
+	}
+.yourSoulBlogs li {
+    margin: 0 0 17px;
+	}
+.archives li li a {
+    padding-left: 56px;
+	}
+	
+	
+	
+	
+	
+	
+
+
+/***********  your Soul Details page ********/
+.blogPannel {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.blogComment li input[type="submit"] {
+    font-size: 17px;
+    font-weight: 400;
+    padding: 7px 20px;
+	}
+.blogComment li input[type="text"] {
+    font-size: 13px;
+    font-weight: 700;
+	}
+.blogComment li textarea {
+    font-size: 13px;
+    font-weight: 700;
+	height: 80px;
+	}
+.comments li p {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+	}
+.soulBlogDetails .blogInfoBox h4{
+	font-size: 16px;
+    line-height: 20px;
+	padding: 10px;
+	}
+.soulBlogDetails .blogDetail{
+	padding:10px;
+	}
+.blogDetail ul {
+    margin: 0;
+	}
+.blogDetail li {
+    line-height: 19px;
+	}
+.soulBlogDetails .bloginfo span {
+    display: block;
+    float: none;
+    line-height: 18px;
+    padding: 0 0 10px;
+	}
+.soulBlogDetails .bloginfo {
+    padding: 15px;
+	}
+.soulBlogDetails .blogDate {
+    float: none !important;
+    text-align: left;
+	}	
+.blogComment {
+    padding: 10px;
+	}
+.blogComment h4 {
+    font-size: 27px;
+	}
+.blogDetail h6 {
+    font-size: 17px;
+    line-height: 23px;
+	}
+.cmtThubmnail {
+    display: block;
+    float: none;
+    margin: 0 auto 10px;
+	}	
+.comments li h6, .comments li p{
+	text-align:center;
+	}	
+.blogComment li input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+	}	
+	
+	
+	
+
+/***********  Prayer Request page ********/
+.captchaBox {
+    float: none;
+    margin: 0 0 20px;
+    width: auto;
+	}
+.requestForm li input[type="text"], .requestForm li textarea{
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0 0 14px;
+    width: 100%;
+	}
+.requestForm li input[type="submit"] {
+    display: block;
+    font-size: 17px;
+    margin: 0 auto 10px;
+    padding: 10px 37px;
+	}
+.cancelBtn{	
+    display: block;
+    padding: 0;
+    text-align: center;
+	}
+.checkbox p {
+    line-height: 21px;
+    padding: 0 0 9px;
+	}
+.requestForm li input[type="text"]:first-child {
+    float: none;
+	}	
+.requestForm li {
+    margin: 0;
+	}	
+.checkbox {
+    margin-bottom: 10px !important;
+	}	
+.requestForm li textarea{
+	margin-bottom: 10px;
+	}
+	
+	
+	
+			
+					
+}
+
+
+
+
